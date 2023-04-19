@@ -1,0 +1,53 @@
+
+Name: PRATIK PRAVINBHAI BHANDARI
+
+ACADEMIC BACKGROUND :
+SSc: Year of completion - 2015 , 62%
+HSC: Year of completion - 2017 HSC(science) , 52%
+
+BCA/MCA/B.E.(Information Technology) ?:Year of completion and % or Grade
+
+BSc (Computer Science) - year of completion - 2020 , 58%
+MCA - year of Completion -2022 ,75%
+
+Technical Skills
+-----------------
+Skills: React Js ,Node Js,socket,firebase
+Database: MySQL,Postgres,GraphQL
+OS	: web
+Tools	: visual Studio code
+Version Control: Git, AWS Code Commit
+
+Projects:
+---------
+Back-end Project
+
+(1)Name: MyWord Back-End
+   URL: 
+  Technology: Node Js ,socket
+  Description - 
+
+
+Front-end Projects
+
+(1)Name: ReactBytes
+   URL: https://www.reactbytes.com/
+   Technology: React Js, GrapgQl
+   Description -
+
+(2)Name: Tangeebl Admin Panel
+   URL: https://admin.tangeebl.com/login
+   Technology: React Js
+   Description - 
+
+(3)Name: MyWord Admin Panel
+   URL: http://13.57.41.142/login
+   Technology: React Js 
+   Description -
+
+(4)Name: Conjoin Admin Panel
+   URL:  https://admin.conjoinapp.com/login
+   Technology: React Js
+   Description -
+
+
