@@ -1,0 +1,187 @@
+
+
+IP address -192.168.1.75
+Employee Id -182
+
+~~~~~~~~~~~~~Skype Credentials~~~~~~~~~~~~~~~
+Email -pratik.bhandari@tristatetechnology.co.in
+Password - f97rgMEE8s
+
+
+>>>>>>>>>>>>>>>>>>>~~~~~~~~~~~~~Udemy Credentials~~~~~~~~~~~~~~~<<<<<<<<<<<<<<<<<<<<<<<
+
+https://www.udemy.com/course/react-the-complete-guide-incl-redux/learn/lecture/25595350#overview 
+
+Udemy Login Credentials:
+Email:  dixitpragnesh@yahoo.co.in 
+Password: Tristate@123
+
+https://www.udemy.com/course/nodejs-the-complete-guide/learn/lecture/11561804#overview
+Udemy Account Details:
+Email: hemant.dixit@tristatetechnology.com
+Password: Tristate@123
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~ AWS console login credentials~~~~~~~~~~~~~~~~~~~~~
+Console login URL:
+https://137038750840.signin.aws.amazon.com/console
+UserName: PratikB.tristate
+Password: b/}Y{s4[ds}Vgu&B
+
+https://137038750840.signin.aws.amazon.com/console
+HTTPS login credentials:
+User Name: PratikB.tristate-at-137038750840
+Password: VzANx5BjfZKf7CV/4w2EeH4W+enGYQrSbvz5pi7jTAo=
+
+
+~~~~~~~~~~~~~~~~~~~~~~~Tristate server credentials~~~~~~~~~~~~~~~~~~~~~
+Endpoint: tristatepostgresql.chkbypvvasb2.us-west-1.rds.amazonaws.com
+username: postgres
+Password: postgresDB2020
+
+
+------------------------ReactBytes---------------------
+IP: 50.18.141.11
+Username: tristate-website
+Password: TwRE!Bs!tea&TE+2019
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>  Admin-Panel Trackmeet <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+Admin URL: https://trakmeetadmin.io
+
+email: admin@trakmeet.app
+password: 20Tr@kMeeT@dM!n22
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>........Tangeebl admin credentials.........<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+URL      - admin.tangeebl.com
+email    - admin@tangeebl.com
+Password - Tangeebl@12
+
+......SSH credentials............
+
+Host: 54.242.150.146
+User: ec2-user
+
+ssh -i tangeebl-server.pem ec2-user@54.242.150.146
+
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>...... LoveOnline .........<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+Project name: Loveonline
+Ip: 52.9.178.69
+USER: ec2-user
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>........Alone24 Credentials .........<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+email:alone24@gmail.com
+password:20Al@ne@dM!n22
+
+ssh -i Alone24.pem ec2-user@3.101.142.105
+
+user: ec2-user
+host: 3.101.142.105
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>........Bio-Hacking Credentials........<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+email:bewelllabsllc@gmail.com
+password:20B!@H@ck!ng22
+
+ssh -i biohacking.pem ec2-user@54.219.125.223
+
+user: ec2-user
+host: 54.219.125.223
+
+
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>.......WordGame Credentials.........<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+email: tristate.mteam@gmail.com
+password: Tristate@123
+
+ssh -i MyWord.pem ec2-user@13.57.41.142
+
+
+--------WordGame Backend -----------------
+
+DB_USER = 'postgres'
+DB_HOST = 'word-game.cszfjvtazn2u.us-west-1.rds.amazonaws.com'
+DB_NAME = 'word-game'
+DB_PASSWORD = 'wordGame2022!'
+DB_PORT = 5432
+
+ssh - sudo ssh -i MyWord.pem ec2-user@ec2-13-57-41-142.us-west-1.compute.amazonaws.com
+
+~~~~~~~~~~~~~ client AWS WordGame credentials~~~~~~~~~~~~~~
+Email ID:  bob@dedea.com 
+Password: wTyz$pyMz*sNRi7Pf!V*^5ib
+
+~~~~~~~~~~~~~WordGame Domain credentials~~~~~~~~~~~~~~
+URL - https://my.ionos.com
+mail-bob@dedea.com
+password -Q7hj9Qa$H^%Z
+
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>.........Conjoinapp adminPanel Credentials.........<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+URL  - https://admin.conjoinapp.com/
+
+
+Email -admin.conjoinapp@gmail.com
+Password - 2023@#Conjoin
+
+ssh -i group-Up.pem ec2-user@35.174.173.76
+admin Panel home Page in Package.json - "homepage": "https://admin.conjoinapp.com/",
+
+
+--------Conjoin Backend Side----------
+35.174.173.76
+ssh -i group-Up.pem ec2-user@ec2-35-174-173-76.compute-1.amazonaws.com
+Filezilla path- /home/ec2-user/GroupUp-Backend
+
+
+>>>>>>>>>.........adminer.........<<<<<<<<<<<<<<
+localhost/adminer.php
+adminer  -  root_adminer
+password -  root_adminer
+
+>>>>>>>>>.........HRMS.........<<<<<<<<<<<<<<
+email - admin@gmail.com
+password - tristate123
+
+~~~~~~~database credentials~~~~~~~~~~~~
+
+host: 'localhost',
+user: 'root_adminer',
+port: 3306,
+password: "root_adminer",
+database: "tri_hrms",
+
+
+>>>>>>>>>.........POSTMAN credentials.........<<<<<<<<<<<<<<
+email - pbhandari00722@gmail.com
+password - Pratik@12
+https://git-codecommit.us-west-1.amazonaws.com/v1/repos/MyWord_Backend
+
+
+<<<<<<<<<<<<<<<<<<<<<<< ~~~~~~~~~~~~~~   HTACCESS  ~~~~~~~~~~~~~~  >>>>>>>>>>>>>>>>>>>>>>>>
+
+RewriteEngine on
+RewriteRule ^.well-known/ - [L,NC]
+
+RewriteCond %{HTTP_HOST} ^(www.)?admin.tangeebl.com$
+# RewriteCond %{REQUEST_URI} !^/tangeebl-admin/
+RewriteCond %{REQUEST_URI} !\.(jpg|png|svg|css|js|otf|ttf|map)$
+RewriteRule ^ tangeebl-admin/index.html
+#RewriteRule ^.well-known/ - [L,NC]
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ /tangeebl-admin/$1
+
+RewriteCond %{HTTP_HOST} ^(www.)?admin.tangeebl.com$
+RewriteRule ^(/)?$ tangeebl-admin/index.html [L]
+
+	
